@@ -39,7 +39,7 @@ h1{
 .o:after{
     position:absolute;
     content: "\1F6E1";
-    font-size:100px;
+    font-size:101px;
     line-height: 180px;
     top:0;
     left:0;
